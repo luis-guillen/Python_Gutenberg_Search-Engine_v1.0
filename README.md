@@ -1,4 +1,4 @@
-# Python Gutenberg Search Engine v1.0
+# 📖 Python Gutenberg Search Engine v1.0
 
 ## Introduction
 This project is a sophisticated search engine designed to provide efficient search capabilities over a large collection of texts from Project Gutenberg. It leverages the inverted index algorithm to ensure fast and accurate search results.
